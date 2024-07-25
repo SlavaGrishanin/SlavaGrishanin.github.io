@@ -96,7 +96,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: images/profile_pic_open_to_work_croped.png
+avatar: /assets/images/profile_pic_open_to_work_croped.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
