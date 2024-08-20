@@ -7,6 +7,6 @@ order: 2
 | ------------- | ------------- |
 | LinkedIn (preferable) | [Slava Grishanin](https://www.linkedin.com/in/slava-grishanin) |
 | Telegram (preferable) | [@SlavaGrishanin](https://t.me/SlavaGrishanin) |
-| WhatsApp | +1 425-469-0195 |
+| WhatsApp | 425-324-4359 |
 | E-mail | slava.mobile.dev@gmail.com |
-| Mobile | +1 425-469-0195 |
+| Mobile | 425-324-4359 |
