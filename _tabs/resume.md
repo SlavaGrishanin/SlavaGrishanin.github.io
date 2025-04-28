@@ -11,4 +11,5 @@ order: 1
 
 
 ![SLAVA_GRISHANIN_ANDROID_CV](/assets/images/SLAVA_GRISHANIN_ANDROID_CV.png){: width="500" }
+![SLAVA_GRISHANIN_ANDROID_CV2](/assets/images/SLAVA_GRISHANIN_ANDROID_CV2.png){: width="500" }
 
