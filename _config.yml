@@ -16,10 +16,10 @@ timezone:
 
 title: Slava Grishanin # the main title
 
-tagline: Log about software, games and wine # it will display as the sub-title
+tagline: Android Developer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Slava Grishanin personal website. Software Development, GameDev, Winemaking.
+  Slava Grishanin Android Developer resume
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
