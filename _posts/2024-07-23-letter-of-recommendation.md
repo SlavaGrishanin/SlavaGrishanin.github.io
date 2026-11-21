@@ -9,7 +9,7 @@ tags: [Android, Letter-of-recommendation]
 [letter-of-recommendation-fsa.pdf](/assets/docs/letter-of-recommendation-afs.pdf)
 {: .text-center }
 
-*Letterhead (in Russian): Financial Services Agency LLC · 101000, Moscow, Armyansky Lane 9, bldg. 1 · phone: +7 (495) 641-50-67 · www.afinsery.ru*
+*Letterhead (in Russian): Financial Services Agency LLC · 101000, Moscow, Armyansky Lane 9, bldg. 1 · phone: +7 (495) 641-50-67*
 
 
 Working at Financial Services Agency was the most intense three years of my life. The mobile department has grown before my eyes. I am grateful for the opportunity to make mobile application development one of the key areas of the company. I am also thankful to our users for their positive letters and reviews about our applications. It was customer feedback that mainly motivated me to create. Feature tracking was the most satisfying part of my job.
