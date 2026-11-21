@@ -35,9 +35,9 @@ Free math trainer game for children of all ages. No ads, no data collection, eas
 [Get it on Google Play](https://play.google.com/store/apps/details?id=ru.vibecaptain.jellyfishcatmath) · [Showcase repository](https://github.com/SlavaGrishanin/jellyfish-cat-math)
 
 <p>
-  <img src="https://raw.githubusercontent.com/SlavaGrishanin/jellyfish-cat-math/main/screenshots/01-home.png" width="180">
-  <img src="https://raw.githubusercontent.com/SlavaGrishanin/jellyfish-cat-math/main/screenshots/02-quiz.png" width="180">
-  <img src="https://raw.githubusercontent.com/SlavaGrishanin/jellyfish-cat-math/main/screenshots/05-skill-tree.png" width="180">
+  <img src="https://raw.githubusercontent.com/SlavaGrishanin/jellyfish-cat-math/main/screenshots/01-home.png" width="180" alt="Jellyfish Cat Math home screen">
+  <img src="https://raw.githubusercontent.com/SlavaGrishanin/jellyfish-cat-math/main/screenshots/02-quiz.png" width="180" alt="Jellyfish Cat Math quiz screen">
+  <img src="https://raw.githubusercontent.com/SlavaGrishanin/jellyfish-cat-math/main/screenshots/05-skill-tree.png" width="180" alt="Jellyfish Cat Math skill tree">
 </p>
 
 ## Social Certificates
