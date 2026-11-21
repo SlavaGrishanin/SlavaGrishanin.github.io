@@ -4,6 +4,9 @@ icon: fas fa-briefcase
 order: 3
 ---
 
+> Independent
+ - [Jellyfish Cat Math](#jellyfish-cat-math)
+
 > Financial Services Agency LLC
  - [Social Certificates](#social-certificates)
  - [NFP: Social Services](#nfp-social-services)
@@ -23,6 +26,19 @@ order: 3
 - Custom City Map
 - Moviews tracker
 
+
+## Jellyfish Cat Math
+> Tech stack: Kotlin Multiplatform · Jetpack Compose · Kotlin · Google Play
+
+Free math trainer game for children of all ages. No ads, no data collection, easy to translate into any language. Built and published to Google Play by me.
+
+[Get it on Google Play](https://play.google.com/store/apps/details?id=ru.vibecaptain.jellyfishcatmath) · [Showcase repository](https://github.com/SlavaGrishanin/jellyfish-cat-math)
+
+<p>
+  <img src="https://raw.githubusercontent.com/SlavaGrishanin/jellyfish-cat-math/main/screenshots/01-home.png" width="180">
+  <img src="https://raw.githubusercontent.com/SlavaGrishanin/jellyfish-cat-math/main/screenshots/02-quiz.png" width="180">
+  <img src="https://raw.githubusercontent.com/SlavaGrishanin/jellyfish-cat-math/main/screenshots/05-skill-tree.png" width="180">
+</p>
 
 ## Social Certificates
 {% include embed/youtube.html id='VLeGbG_AiRs' %}
